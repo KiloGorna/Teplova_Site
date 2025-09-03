@@ -2,7 +2,7 @@
  Индивидуальный проект по теме:  
  Разработка платформы, где художники могут выставлять свои произведения, а зрители могут просматривать, комментировать и покупать искусство — ColourfulWorld
 
-![Логотип](file:///D:/extension_10700726.png )
+![Логотип](file:///D:/extension_10700726.png "Логотип ColourfulWorld")
 
 <img src= "https://img.shields.io/badge/Site%20Art-A60000"> <img src= "https://img.shields.io/badge/Language-C%23-A60000">
 
